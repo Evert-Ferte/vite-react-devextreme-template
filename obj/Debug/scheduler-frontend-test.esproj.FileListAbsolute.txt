@@ -1,0 +1,1 @@
+C:\WebProjects\Collection Scheduler\scheduler\scheduler-frontend-test\obj\Debug\scheduler-frontend-test.esproj.CoreCompileInputs.cache
